@@ -38,7 +38,7 @@ npm install  # or yarn install
 
 ### 3️⃣ Start the Development Server
 ```sh
-npm start  # or yarn start
+npm run dev  # or yarn start
 ```
 Your application will now be running on **http://localhost:3000/** 🚀
 
