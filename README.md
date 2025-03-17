@@ -61,10 +61,10 @@ To enable the translation feature, follow these steps:
 
 
 ## 🔗 Connect with Me
-💼 **Portfolio**: [your-portfolio-link.com](https://portfolio-deepakjadon1902s-projects.vercel.app/)  
-🐙 **GitHub**: [your-github-link](https://github.com/deepakjadon1902)  
-💼 **LinkedIn**: [your-linkedin-link](https://www.linkedin.com/in/deepak-jadon-612487272)  
-📧 **Email**: [your-email@example.com](mailto:deepakjadon1907@gmail.com)
+💼 **Portfolio**: (https://portfolio-deepakjadon1902s-projects.vercel.app/)  
+🐙 **GitHub**: (https://github.com/deepakjadon1902)  
+💼 **LinkedIn**:(https://www.linkedin.com/in/deepak-jadon-612487272)  
+📧 **Email**: (mailto:deepakjadon1907@gmail.com)
 
 ---
 
